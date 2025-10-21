@@ -5,7 +5,7 @@ import Producto from './components/Producto.vue';
 </script>
 
 <template>
-
+  Hola mundo
   <carousel-component/>
   <Producto/>
   <FooterComponent/>
